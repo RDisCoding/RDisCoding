@@ -121,7 +121,6 @@ life_motto: "Always working on something."
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RDisCoding&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=00D4FF&text_color=FFFFFF&ring_color=7928CA"/>
-<img width="49%" src="theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=00D4FF&currStreakLabel=00D4FF"/>
 
 </div>
 

@@ -116,16 +116,6 @@ life_motto: "Always working on something."
 
 <br/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> **GitHub Stats**
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RDisCoding&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=00D4FF&text_color=FFFFFF&ring_color=7928CA"/>
-
-</div>
-
-<br/>
-
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

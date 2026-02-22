@@ -125,10 +125,6 @@ life_motto: "Always working on something."
 
 </div>
 
-<div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDisCoding&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=FFFFFF"/>
-</div>
-
 <br/>
 
 <!-- Neon Divider -->

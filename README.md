@@ -7,7 +7,7 @@
 
 <!-- Matrix-style Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E+Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;%3E+Building+AI-Powered+Futures%2C+One+Commit+at+a+Time+%F0%9F%9A%80;%3E+Let's+Create+Something+Legendary+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E+Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;%3E+Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80;%3E+Let's+Create+Something+Legendary+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>

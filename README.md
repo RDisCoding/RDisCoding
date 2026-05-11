@@ -177,6 +177,10 @@ life_motto: "Always working on something."
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RDisCoding&bg_color=0D1117&color=FF0080&line=00D4FF&point=7928CA&area=true&area_color=7928CA&hide_border=true"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/RDisCoding/RDisCoding/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 <br/>
